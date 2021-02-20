@@ -1,0 +1,32 @@
+body {
+    background-color: black ;
+    text-align: center;
+}
+.top-header-styled-text {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.download-link a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.mid-header-styled-text {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+#paragraph-text-above-photo {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+.bottom-header-styled-text {
+    font-family: Verdana;
+    color: white;
+    font-weight: 300;
+}
